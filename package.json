@@ -1,0 +1,22 @@
+{
+  "name": "Speed Car",
+  "version": "1.0.0",
+  "description": "Similiar to Endless Runner Bicycle Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Game",
+    "Terminal"
+  ],
+  "author": "Wildy  Johanes Simanjuntak",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^27.1.2",
+    "node-key-sender": "^1.0.11"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
