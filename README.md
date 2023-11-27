@@ -1,6 +1,6 @@
 # Speed Car
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/wildy13/Speed-Car/blob/main/LICENSE)
 
 ## Description
 Speed Car is a vehicle speed simulation project built using the JavaScript programming language. The project aims to illustrate the concept of driving speed on a highway while avoiding other vehicles.
